@@ -4,11 +4,7 @@
 This repository contains the project report for MIS 64038, Spring 2020, focusing on market segmentation analysis using OLIST E-Commerce data. The project aims to provide insights into customer behavior, sales forecasting, and customer segmentation strategies to improve business decision-making processes.
 
 ## Authors
-- Sumanth Avunuri (savunuri@kent.edu)
-- Harika Penjerla (spenjerl@kent.edu)
-- Mallikarjun Sasnur (msasnur@kent.edu)
-- Chujun Huang (chuang23@kent.edu)
-- Susmita Singh (ssingh35@kent.edu)
+- Akash Bhor (akashbhor111@gmail.com)
 
 ## Table of Contents
 1. [Business Requirements](#business-requirements)
